@@ -1,0 +1,38 @@
+.buttons{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+ .llogo{
+   margin-right:20px;
+ }
+
+.App{
+  margin:0;
+  padding:0;
+}
+
+.from{
+  text-align: center;
+  padding-top:125px;
+  margin:auto 35%;
+  padding-bottom:100px;
+}
+
+main{
+  background-image: url(https://dev.infiniticreation.co.uk/wp-content/uploads/2018/06/background-kupi-contact-form.png);
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+  position: relative;
+}
+
+#txt{
+  color:white;
+}
+
+header{
+    position:fixed;
+    z-index: 99;
+    width: 100%;
+}
